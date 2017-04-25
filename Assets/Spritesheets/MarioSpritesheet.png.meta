@@ -1,0 +1,2488 @@
+fileFormatVersion: 2
+guid: b59fe914392c74ce0a7dee623001a295
+timeCreated: 1471075906
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarioSpritesheet_0
+    21300002: MarioSpritesheet_1
+    21300004: MarioSpritesheet_2
+    21300006: MarioSpritesheet_3
+    21300008: MarioSpritesheet_4
+    21300010: MarioSpritesheet_5
+    21300012: MarioSpritesheet_6
+    21300014: MarioSpritesheet_7
+    21300016: MarioSpritesheet_8
+    21300018: MarioSpritesheet_9
+    21300020: MarioSpritesheet_10
+    21300022: MarioSpritesheet_11
+    21300024: MarioSpritesheet_12
+    21300026: MarioSpritesheet_13
+    21300028: MarioSpritesheet_14
+    21300030: MarioSpritesheet_15
+    21300032: MarioSpritesheet_16
+    21300034: MarioSpritesheet_17
+    21300036: MarioSpritesheet_18
+    21300038: MarioSpritesheet_19
+    21300040: MarioSpritesheet_20
+    21300042: MarioSpritesheet_21
+    21300044: MarioSpritesheet_22
+    21300046: MarioSpritesheet_23
+    21300048: MarioSpritesheet_24
+    21300050: MarioSpritesheet_25
+    21300052: MarioSpritesheet_26
+    21300054: MarioSpritesheet_27
+    21300056: MarioSpritesheet_28
+    21300058: MarioSpritesheet_29
+    21300060: MarioSpritesheet_30
+    21300062: MarioSpritesheet_31
+    21300064: MarioSpritesheet_32
+    21300066: MarioSpritesheet_33
+    21300068: MarioSpritesheet_34
+    21300070: MarioSpritesheet_35
+    21300072: MarioSpritesheet_36
+    21300074: MarioSpritesheet_37
+    21300076: MarioSpritesheet_38
+    21300078: MarioSpritesheet_39
+    21300080: MarioSpritesheet_40
+    21300082: MarioSpritesheet_41
+    21300084: MarioSpritesheet_42
+    21300086: MarioSpritesheet_43
+    21300088: MarioSpritesheet_44
+    21300090: MarioSpritesheet_45
+    21300092: MarioSpritesheet_46
+    21300094: MarioSpritesheet_47
+    21300096: MarioSpritesheet_48
+    21300098: MarioSpritesheet_49
+    21300100: MarioSpritesheet_50
+    21300102: MarioSpritesheet_51
+    21300104: MarioSpritesheet_52
+    21300106: MarioSpritesheet_53
+    21300108: MarioSpritesheet_54
+    21300110: MarioSpritesheet_55
+    21300112: MarioSpritesheet_56
+    21300114: MarioSpritesheet_57
+    21300116: MarioSpritesheet_58
+    21300118: MarioSpritesheet_59
+    21300120: MarioSpritesheet_60
+    21300122: MarioSpritesheet_61
+    21300124: MarioSpritesheet_62
+    21300126: MarioSpritesheet_63
+    21300128: MarioSpritesheet_64
+    21300130: MarioSpritesheet_65
+    21300132: MarioSpritesheet_66
+    21300134: MarioSpritesheet_67
+    21300136: MarioSpritesheet_68
+    21300138: MarioSpritesheet_69
+    21300140: MarioSpritesheet_70
+    21300142: MarioSpritesheet_71
+    21300144: MarioSpritesheet_72
+    21300146: MarioSpritesheet_73
+    21300148: MarioSpritesheet_74
+    21300150: MarioSpritesheet_75
+    21300152: MarioSpritesheet_76
+    21300154: MarioSpritesheet_77
+    21300156: MarioSpritesheet_78
+    21300158: MarioSpritesheet_79
+    21300160: MarioSpritesheet_80
+    21300162: MarioSpritesheet_81
+    21300164: MarioSpritesheet_82
+    21300166: MarioSpritesheet_83
+    21300168: MarioSpritesheet_84
+    21300170: MarioSpritesheet_85
+    21300172: MarioSpritesheet_86
+    21300174: MarioSpritesheet_87
+    21300176: MarioSpritesheet_88
+    21300178: MarioSpritesheet_89
+    21300180: MarioSpritesheet_90
+    21300182: MarioSpritesheet_91
+    21300184: MarioSpritesheet_92
+    21300186: MarioSpritesheet_93
+    21300188: MarioSpritesheet_94
+    21300190: MarioSpritesheet_95
+    21300192: MarioSpritesheet_96
+    21300194: MarioSpritesheet_97
+    21300196: MarioSpritesheet_98
+    21300198: MarioSpritesheet_99
+    21300200: MarioSpritesheet_100
+    21300202: MarioSpritesheet_101
+    21300204: MarioSpritesheet_102
+    21300206: MarioSpritesheet_103
+    21300208: MarioSpritesheet_104
+    21300210: MarioSpritesheet_105
+    21300212: MarioSpritesheet_106
+    21300214: MarioSpritesheet_107
+    21300216: MarioSpritesheet_108
+    21300218: MarioSpritesheet_109
+    21300220: MarioSpritesheet_110
+    21300222: MarioSpritesheet_111
+    21300224: MarioSpritesheet_112
+    21300226: MarioSpritesheet_113
+    21300228: MarioSpritesheet_114
+    21300230: MarioSpritesheet_115
+    21300232: MarioSpritesheet_116
+    21300234: MarioSpritesheet_117
+    21300236: MarioSpritesheet_118
+    21300238: MarioSpritesheet_119
+    21300240: MarioSpritesheet_120
+    21300242: MarioSpritesheet_121
+    21300244: MarioSpritesheet_122
+    21300246: MarioSpritesheet_123
+    21300248: MarioSpritesheet_124
+    21300250: MarioSpritesheet_125
+    21300252: MarioSpritesheet_126
+    21300254: MarioSpritesheet_127
+    21300256: MarioSpritesheet_128
+    21300258: MarioSpritesheet_129
+    21300260: MarioSpritesheet_130
+    21300262: MarioSpritesheet_131
+    21300264: MarioSpritesheet_132
+    21300266: MarioSpritesheet_133
+    21300268: MarioSpritesheet_134
+    21300270: MarioSpritesheet_135
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarioSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 630
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 46.5}
+        - {x: -69.5, y: -46.5}
+        - {x: 69.5, y: -46.5}
+        - {x: 69.5, y: 46.5}
+    - name: MarioSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 676
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 23.5}
+        - {x: -69.5, y: -23.5}
+        - {x: 69.5, y: -23.5}
+        - {x: 69.5, y: 23.5}
+    - name: MarioSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      - - {x: 18, y: -3}
+        - {x: 18, y: 3}
+        - {x: 17, y: 10}
+        - {x: 13, y: 14}
+        - {x: 11, y: 15}
+        - {x: -2, y: 8}
+        - {x: -16, y: 16}
+        - {x: 16, y: -16}
+    - name: MarioSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 685
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 16.5}
+        - {x: -35, y: -16.5}
+        - {x: 35, y: -16.5}
+        - {x: 35, y: 16.5}
+    - name: MarioSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 684
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 20}
+        - {x: -59, y: -20}
+        - {x: 59, y: -20}
+        - {x: 59, y: 20}
+    - name: MarioSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 684
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 20}
+        - {x: -78.5, y: -20}
+        - {x: 78.5, y: -20}
+        - {x: 78.5, y: 20}
+    - name: MarioSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 696
+        width: 254
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 599
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+    - name: MarioSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 599
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+    - name: MarioSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 599
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40}
+        - {x: -40, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 40}
+      - - {x: 36, y: -30}
+        - {x: 33, y: -27}
+        - {x: 29, y: -26}
+        - {x: 29, y: -13}
+        - {x: 25, y: -4}
+        - {x: 22, y: -1}
+        - {x: 22, y: -2}
+        - {x: 23, y: -1}
+        - {x: 23, y: 2}
+        - {x: 20, y: 8}
+        - {x: 16, y: 10}
+        - {x: 4, y: 15}
+        - {x: 2, y: 22}
+        - {x: -11, y: 30}
+        - {x: -16, y: 31}
+        - {x: -29, y: 24}
+        - {x: -33, y: 22}
+        - {x: -36, y: 36}
+        - {x: 36, y: 36}
+        - {x: 36, y: -31}
+    - name: MarioSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 624
+        width: 217
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 27.5}
+        - {x: -108.5, y: -27.5}
+        - {x: 108.5, y: -27.5}
+        - {x: 108.5, y: 27.5}
+      - - {x: 66.5, y: 24.5}
+        - {x: 64.5, y: 17.5}
+        - {x: 64.5, y: -15.5}
+        - {x: 68.5, y: -22.5}
+        - {x: 69.5, y: -23.5}
+        - {x: 93.5, y: -23.5}
+        - {x: 98.5, y: -19.5}
+        - {x: 98.5, y: 19.5}
+        - {x: 87.5, y: 24.5}
+    - name: MarioSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 570
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 54.5}
+        - {x: -54.5, y: -54.5}
+        - {x: 54.5, y: -54.5}
+        - {x: 54.5, y: 54.5}
+    - name: MarioSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 590
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 44.5}
+        - {x: -66.5, y: -44.5}
+        - {x: 24.5, y: -44.5}
+        - {x: 66.5, y: -2.5}
+        - {x: 66.5, y: 44.5}
+      - - {x: 33.5, y: -25.5}
+        - {x: 24.5, y: -36.5}
+        - {x: 24.5, y: -44.5}
+        - {x: 50.5, y: -44.5}
+        - {x: 52.5, y: -38.5}
+        - {x: 52.5, y: -29.5}
+        - {x: 50.5, y: -25.5}
+      - - {x: 58.5, y: -37.5}
+        - {x: 56.5, y: -44.5}
+        - {x: 66.5, y: -44.5}
+        - {x: 66.5, y: -32.5}
+        - {x: 62.5, y: -33.5}
+    - name: MarioSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 653
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 642
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 562
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 30}
+        - {x: -59.5, y: -30}
+        - {x: 59.5, y: -30}
+        - {x: 59.5, y: 30}
+    - name: MarioSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 612
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 542
+        width: 197
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: 25}
+        - {x: -98.5, y: -25}
+        - {x: 98.5, y: -25}
+        - {x: 98.5, y: 25}
+    - name: MarioSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 552
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 20}
+        - {x: -78.5, y: -20}
+        - {x: 78.5, y: -20}
+        - {x: 78.5, y: 20}
+    - name: MarioSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: MarioSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 554
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 536
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 22.5}
+      - - {x: -18.5, y: 18.5}
+        - {x: 18.5, y: 18.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 12.5, y: -1.5}
+        - {x: 15.5, y: 1.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 6.5, y: 17.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -15.5, y: 2.5}
+    - name: MarioSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 574
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 573
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 573
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 580
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 436
+        width: 196
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 39}
+        - {x: 68, y: 35}
+        - {x: 66, y: 25}
+        - {x: 65, y: 41}
+        - {x: 98, y: 41}
+        - {x: 98, y: 59}
+        - {x: 24, y: 59}
+        - {x: 27, y: 47}
+        - {x: 29, y: 45}
+        - {x: 22, y: 22}
+        - {x: 22, y: 59}
+        - {x: -98, y: 59}
+        - {x: -98, y: -59}
+        - {x: 98, y: -59}
+        - {x: 98, y: 38}
+        - {x: 86, y: 41}
+    - name: MarioSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 479
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+    - name: MarioSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 486
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 25}
+        - {x: -49.5, y: -25}
+        - {x: 49.5, y: -25}
+        - {x: 49.5, y: 25}
+    - name: MarioSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 486
+        width: 237
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: 30}
+        - {x: -118.5, y: -30}
+        - {x: 118.5, y: -30}
+        - {x: 118.5, y: 30}
+      - - {x: -98.5, y: 27}
+        - {x: -108.5, y: 7}
+        - {x: -108.5, y: -21}
+        - {x: -105.5, y: -27}
+        - {x: -69.5, y: -27}
+        - {x: -69.5, y: 11}
+        - {x: -84.5, y: 27}
+      - - {x: -29.5, y: 27}
+        - {x: -40.5, y: 27}
+        - {x: -48.5, y: 19}
+        - {x: -48.5, y: -27}
+        - {x: -11.5, y: -27}
+        - {x: -10.5, y: -25}
+        - {x: -10.5, y: -3}
+        - {x: -18.5, y: 22}
+      - - {x: 87.5, y: 27}
+        - {x: 77.5, y: 27}
+        - {x: 68.5, y: 11}
+        - {x: 68.5, y: -18}
+        - {x: 74.5, y: -27}
+        - {x: 102.5, y: -27}
+        - {x: 106.5, y: -18}
+        - {x: 106.5, y: 7}
+        - {x: 97.5, y: 20}
+    - name: MarioSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30.5}
+        - {x: -16, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 16, y: 30.5}
+    - name: MarioSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 401
+        width: 235
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.5, y: -44.5}
+        - {x: -115.5, y: -78.5}
+        - {x: -79.5, y: -78.5}
+        - {x: -79.5, y: -44.5}
+      - - {x: -77.5, y: -48.5}
+        - {x: -78.5, y: -52.5}
+        - {x: -78.5, y: -78.5}
+        - {x: -42.5, y: -78.5}
+        - {x: -42.5, y: -52.5}
+        - {x: -46.5, y: -48.5}
+      - - {x: 36.5, y: 78.5}
+        - {x: -2.5, y: 39.5}
+        - {x: -117.5, y: 2.5}
+        - {x: -117.5, y: -41.5}
+        - {x: -4.5, y: -78.5}
+        - {x: 117.5, y: -78.5}
+        - {x: 117.5, y: 78.5}
+      - - {x: -36.5, y: -53.5}
+        - {x: -40.5, y: -57.5}
+        - {x: -40.5, y: -73.5}
+        - {x: -36.5, y: -77.5}
+        - {x: -8.5, y: -77.5}
+        - {x: -4.5, y: -73.5}
+        - {x: -4.5, y: -57.5}
+        - {x: -8.5, y: -53.5}
+      - - {x: -117.5, y: 46.5}
+        - {x: -117.5, y: 14.5}
+        - {x: -91.5, y: 14.5}
+        - {x: -89.5, y: 16.5}
+        - {x: -89.5, y: 43.5}
+        - {x: -92.5, y: 46.5}
+      - - {x: -61.5, y: 16.5}
+        - {x: -53.5, y: 16.5}
+        - {x: -52.5, y: 18.5}
+        - {x: -52.5, y: 43.5}
+        - {x: -53.5, y: 46.5}
+        - {x: -87.5, y: 46.5}
+        - {x: -88.5, y: 43.5}
+        - {x: -88.5, y: 16.5}
+        - {x: -65.5, y: 16.5}
+        - {x: -63.5, y: 19.5}
+        - {x: -63.5, y: 20.5}
+        - {x: -63.5, y: 18.5}
+      - - {x: -51.5, y: 22.5}
+        - {x: -52.5, y: 21.5}
+        - {x: -52.5, y: 18.5}
+        - {x: -51.5, y: 16.5}
+        - {x: -28.5, y: 16.5}
+        - {x: -27.5, y: 19.5}
+        - {x: -27.5, y: 22.5}
+      - - {x: -27.5, y: 19.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -17.5, y: 19.5}
+        - {x: -18.5, y: 22.5}
+        - {x: -26.5, y: 22.5}
+      - - {x: -50.5, y: 30.5}
+        - {x: -51.5, y: 27.5}
+        - {x: -51.5, y: 26.5}
+        - {x: -50.5, y: 23.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -17.5, y: 26.5}
+        - {x: -17.5, y: 29.5}
+        - {x: -18.5, y: 30.5}
+      - - {x: -49.5, y: 38.5}
+        - {x: -51.5, y: 37.5}
+        - {x: -51.5, y: 34.5}
+        - {x: -49.5, y: 31.5}
+        - {x: -19.5, y: 31.5}
+        - {x: -16.5, y: 33.5}
+        - {x: -16.5, y: 35.5}
+        - {x: -17.5, y: 38.5}
+      - - {x: -50.5, y: 44.5}
+        - {x: -50.5, y: 42.5}
+        - {x: -48.5, y: 40.5}
+        - {x: -37.5, y: 40.5}
+        - {x: -34.5, y: 43.5}
+        - {x: -35.5, y: 46.5}
+        - {x: -48.5, y: 46.5}
+      - - {x: -34.5, y: 44.5}
+        - {x: -34.5, y: 42.5}
+        - {x: -32.5, y: 40.5}
+        - {x: -21.5, y: 40.5}
+        - {x: -18.5, y: 43.5}
+        - {x: -19.5, y: 46.5}
+        - {x: -32.5, y: 46.5}
+      - - {x: -117.5, y: 78.5}
+        - {x: -117.5, y: 47.5}
+        - {x: -91.5, y: 47.5}
+        - {x: -89.5, y: 48.5}
+        - {x: -89.5, y: 78.5}
+      - - {x: -87.5, y: 78.5}
+        - {x: -87.5, y: 49.5}
+        - {x: -86.5, y: 47.5}
+        - {x: -52.5, y: 47.5}
+        - {x: -51.5, y: 49.5}
+        - {x: -51.5, y: 78.5}
+      - - {x: 20.5, y: 78.5}
+        - {x: 20.5, y: 59.5}
+        - {x: 19.5, y: 78.5}
+        - {x: -23.5, y: 78.5}
+        - {x: -23.5, y: 56.5}
+        - {x: -21.5, y: 54.5}
+        - {x: 23.5, y: 54.5}
+        - {x: 25.5, y: 56.5}
+        - {x: 25.5, y: 78.5}
+      - - {x: -42.5, y: 77.5}
+        - {x: -45.5, y: 74.5}
+        - {x: -47.5, y: 69.5}
+        - {x: -47.5, y: 64.5}
+        - {x: -39.5, y: 57.5}
+        - {x: -34.5, y: 57.5}
+        - {x: -27.5, y: 62.5}
+        - {x: -27.5, y: 70.5}
+        - {x: -34.5, y: 77.5}
+    - name: MarioSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 535
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -16}
+        - {x: -14, y: -17}
+        - {x: 12, y: -17}
+        - {x: 16, y: -11}
+        - {x: 16, y: 17}
+    - name: MarioSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 496
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 502
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -18, y: -16}
+        - {x: 12, y: -16}
+        - {x: 18, y: -14}
+        - {x: 18, y: 13}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 505
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 503
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -18, y: 12}
+        - {x: -18, y: -12}
+        - {x: -12, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+    - name: MarioSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 20}
+        - {x: -59, y: -20}
+        - {x: 59, y: -20}
+        - {x: 59, y: 20}
+    - name: MarioSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: MarioSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: MarioSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 401
+        width: 196
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: -39.5}
+        - {x: -87, y: -39.5}
+        - {x: -87, y: -32.5}
+        - {x: -90, y: -29.5}
+        - {x: -98, y: -29.5}
+      - - {x: -85, y: -18.5}
+        - {x: -85, y: -39.5}
+        - {x: -51, y: -39.5}
+        - {x: -51, y: -17.5}
+        - {x: -53, y: -15.5}
+        - {x: -82, y: -15.5}
+      - - {x: -98, y: 39.5}
+        - {x: -98, y: -25.5}
+        - {x: -25, y: -39.5}
+        - {x: 87, y: -39.5}
+        - {x: 98, y: -4.5}
+        - {x: 98, y: 39.5}
+      - - {x: 74, y: -4.5}
+        - {x: 68, y: -15.5}
+        - {x: 68, y: -27.5}
+        - {x: 76, y: -38.5}
+        - {x: 77, y: -39.5}
+        - {x: 82, y: -39.5}
+        - {x: 88, y: -27.5}
+        - {x: 88, y: -4.5}
+    - name: MarioSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 469
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 12}
+        - {x: 12, y: 17}
+    - name: MarioSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 40}
+        - {x: -32, y: -40}
+        - {x: 32, y: -40}
+        - {x: 32, y: 40}
+    - name: MarioSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 388
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 22}
+        - {x: -44, y: 22}
+        - {x: -46, y: 18}
+        - {x: -46, y: -21}
+        - {x: -42, y: -22}
+        - {x: 38, y: -22}
+        - {x: 46, y: -16}
+        - {x: 46, y: 19}
+    - name: MarioSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: -14, y: 18}
+        - {x: -19, y: 17}
+        - {x: -46, y: -15}
+        - {x: -46, y: -18}
+        - {x: 46, y: -18}
+        - {x: 46, y: -15}
+        - {x: 17, y: 15}
+    - name: MarioSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 347
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 31}
+        - {x: -31, y: -31}
+        - {x: 29, y: -31}
+        - {x: 31, y: -7}
+        - {x: 31, y: 31}
+    - name: MarioSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 339
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 6}
+        - {x: -48, y: -30}
+        - {x: 27, y: -30}
+        - {x: 48, y: -15}
+        - {x: 48, y: 30}
+        - {x: -7, y: 30}
+    - name: MarioSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 343
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22}
+        - {x: -37, y: 13}
+        - {x: -46, y: 5}
+        - {x: -46, y: -12}
+        - {x: -40, y: -22}
+        - {x: 46, y: -22}
+        - {x: 46, y: 10}
+        - {x: 27, y: 22}
+    - name: MarioSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 12}
+        - {x: -17, y: 6}
+        - {x: 7, y: -14}
+        - {x: 11, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+        - {x: -12, y: 16}
+    - name: MarioSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 5}
+        - {x: 9, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+        - {x: -17, y: 16}
+    - name: MarioSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -17, y: 11}
+        - {x: -17, y: 5}
+        - {x: 8, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+    - name: MarioSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 362
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+    - name: MarioSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 31.5}
+        - {x: -14, y: 31.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -31.5}
+        - {x: 16, y: -31.5}
+        - {x: 16, y: 30.5}
+    - name: MarioSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 299
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 302
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 302
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 302
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 302
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: 32}
+    - name: MarioSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: 32}
+    - name: MarioSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: 32}
+    - name: MarioSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 314
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 316
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 253
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 22}
+        - {x: -46, y: 21}
+        - {x: -46, y: -21}
+        - {x: -45, y: -22}
+        - {x: 45, y: -22}
+        - {x: 46, y: -21}
+        - {x: 46, y: 21}
+        - {x: 45, y: 22}
+    - name: MarioSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 278
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 288
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 223
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21}
+        - {x: -18.5, y: 15}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -15}
+        - {x: -15.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 21}
+    - name: MarioSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 234
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -22, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 22.5}
+    - name: MarioSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 150
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 63.5}
+        - {x: -57.5, y: -63.5}
+        - {x: 57.5, y: -63.5}
+        - {x: 57.5, y: 62.5}
+        - {x: 55.5, y: 63.5}
+    - name: MarioSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 260
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 90
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 118.5}
+        - {x: -45, y: 114.5}
+        - {x: -45, y: -111.5}
+        - {x: -43, y: -118.5}
+        - {x: 13, y: -118.5}
+        - {x: 45, y: -94.5}
+        - {x: 45, y: 118.5}
+    - name: MarioSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 373
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.5, y: 62.5}
+        - {x: -186.5, y: -62.5}
+        - {x: 186.5, y: -62.5}
+        - {x: 186.5, y: 62.5}
+    - name: MarioSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 161
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: 30}
+        - {x: -89, y: -30}
+        - {x: 89, y: -30}
+        - {x: 89, y: 30}
+    - name: MarioSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 227
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 177
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 16.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -16.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 16.5}
+    - name: MarioSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 194
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 185
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 27}
+        - {x: -37.5, y: -27}
+        - {x: 37.5, y: -27}
+        - {x: 37.5, y: 27}
+    - name: MarioSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 194
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 20.5}
+        - {x: -35.5, y: -26.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 30.5, y: 18.5}
+        - {x: 26.5, y: 20.5}
+      - - {x: 32.5, y: -26.5}
+        - {x: 35.5, y: -26.5}
+        - {x: 35.5, y: -20.5}
+        - {x: 32.5, y: -21.5}
+      - - {x: 32.5, y: -18.5}
+        - {x: 34.5, y: -20.5}
+        - {x: 35.5, y: -20.5}
+        - {x: 35.5, y: -12.5}
+        - {x: 32.5, y: -13.5}
+      - - {x: 32.5, y: -10.5}
+        - {x: 34.5, y: -12.5}
+        - {x: 35.5, y: -12.5}
+        - {x: 35.5, y: -4.5}
+        - {x: 32.5, y: -5.5}
+      - - {x: 32.5, y: -2.5}
+        - {x: 34.5, y: -4.5}
+        - {x: 35.5, y: -4.5}
+        - {x: 35.5, y: 3.5}
+        - {x: 32.5, y: 2.5}
+      - - {x: 32.5, y: 5.5}
+        - {x: 34.5, y: 3.5}
+        - {x: 35.5, y: 3.5}
+        - {x: 35.5, y: 11.5}
+        - {x: 32.5, y: 10.5}
+      - - {x: 32.5, y: 13.5}
+        - {x: 34.5, y: 11.5}
+        - {x: 35.5, y: 11.5}
+        - {x: 35.5, y: 19.5}
+        - {x: 32.5, y: 18.5}
+      - - {x: 26.5, y: 26.5}
+        - {x: 26.5, y: 21.5}
+        - {x: 34.5, y: 19.5}
+        - {x: 35.5, y: 19.5}
+        - {x: 35.5, y: 26.5}
+      - - {x: -35.5, y: 26.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -31.5, y: 23.5}
+        - {x: -29.5, y: 25.5}
+        - {x: -29.5, y: 26.5}
+      - - {x: -29.5, y: 26.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -21.5, y: 26.5}
+      - - {x: -21.5, y: 26.5}
+        - {x: -20.5, y: 23.5}
+        - {x: -15.5, y: 23.5}
+        - {x: -13.5, y: 25.5}
+        - {x: -13.5, y: 26.5}
+      - - {x: -13.5, y: 26.5}
+        - {x: -12.5, y: 23.5}
+        - {x: -7.5, y: 23.5}
+        - {x: -5.5, y: 25.5}
+        - {x: -5.5, y: 26.5}
+      - - {x: -5.5, y: 26.5}
+        - {x: -4.5, y: 23.5}
+        - {x: 0.5, y: 23.5}
+        - {x: 2.5, y: 25.5}
+        - {x: 2.5, y: 26.5}
+      - - {x: 2.5, y: 26.5}
+        - {x: 3.5, y: 23.5}
+        - {x: 8.5, y: 23.5}
+        - {x: 10.5, y: 25.5}
+        - {x: 10.5, y: 26.5}
+      - - {x: 10.5, y: 26.5}
+        - {x: 11.5, y: 23.5}
+        - {x: 16.5, y: 23.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 18.5, y: 26.5}
+      - - {x: 18.5, y: 26.5}
+        - {x: 19.5, y: 23.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 26.5, y: 25.5}
+        - {x: 26.5, y: 26.5}
+    - name: MarioSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 178
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 23.5}
+        - {x: -22, y: 23.5}
+        - {x: -22, y: -2.5}
+        - {x: -7, y: -23.5}
+        - {x: 7, y: -23.5}
+        - {x: 22, y: -2.5}
+        - {x: 22, y: 21.5}
+    - name: MarioSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24.5}
+        - {x: -23, y: -24.5}
+        - {x: 23, y: -24.5}
+        - {x: 23, y: 22.5}
+        - {x: 22, y: 24.5}
+    - name: MarioSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 108
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 22}
+        - {x: -45, y: -22}
+        - {x: 45, y: -22}
+        - {x: 45, y: 22}
+      - - {x: -41, y: -20}
+        - {x: -30, y: -20}
+        - {x: -27, y: -18}
+        - {x: -25, y: -18}
+        - {x: -22, y: -15}
+        - {x: -22, y: -4}
+        - {x: -25, y: -1}
+        - {x: -30, y: 1}
+        - {x: -35, y: 1}
+        - {x: -38, y: 0}
+        - {x: -44, y: -6}
+        - {x: -43, y: -14}
+        - {x: -42, y: -13}
+        - {x: -41, y: 18}
+        - {x: -39, y: 3}
+        - {x: -35, y: 1}
+        - {x: -19, y: 1}
+        - {x: -16, y: 4}
+        - {x: -16, y: 6}
+        - {x: -17, y: 7}
+        - {x: -17, y: 17}
+        - {x: -20, y: 20}
+        - {x: -22, y: 19}
+        - {x: -12, y: 19}
+        - {x: -15, y: 17}
+        - {x: -16, y: 14}
+        - {x: -16, y: 8}
+        - {x: -18, y: 6}
+        - {x: -18, y: 4}
+        - {x: -15, y: 1}
+        - {x: 2, y: 0}
+        - {x: 6, y: 7}
+        - {x: 5, y: 17}
+        - {x: 2, y: 20}
+        - {x: 0, y: 19}
+        - {x: 13, y: 19}
+        - {x: 12, y: 20}
+        - {x: 8, y: 17}
+        - {x: 6, y: 14}
+        - {x: 7, y: 3}
+        - {x: 12, y: 0}
+        - {x: 24, y: -2}
+        - {x: 30, y: 8}
+        - {x: 28, y: 16}
+        - {x: 25, y: 19}
+        - {x: 22, y: 19}
+        - {x: 41, y: 18}
+        - {x: 19, y: -11}
+        - {x: 23, y: -17}
+        - {x: 26, y: -20}
+        - {x: 42, y: -19}
+        - {x: -41, y: -18}
+        - {x: -42, y: -19}
+      - - {x: -19, y: 0}
+        - {x: -22, y: -3}
+        - {x: -22, y: -19}
+        - {x: -2, y: -19}
+        - {x: -2, y: -2}
+        - {x: -7, y: 0}
+      - - {x: 3, y: 0}
+        - {x: 1, y: -1}
+        - {x: 1, y: -19}
+        - {x: 15, y: -19}
+        - {x: 21, y: -17}
+        - {x: 21, y: -1}
+        - {x: 18, y: 0}
+    - name: MarioSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 104
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 26}
+        - {x: -51, y: -26}
+        - {x: 51, y: -26}
+        - {x: 51, y: 26}
+      - - {x: -48, y: -21}
+        - {x: -47, y: -22}
+        - {x: -8, y: -22}
+        - {x: -3, y: -17}
+        - {x: -3, y: -14}
+        - {x: -5, y: 1}
+        - {x: -10, y: 11}
+        - {x: -15, y: 17}
+        - {x: -19, y: 19}
+        - {x: -24, y: 23}
+        - {x: -28, y: 24}
+        - {x: -31, y: 23}
+        - {x: -36, y: 19}
+        - {x: -40, y: 17}
+        - {x: -47, y: 9}
+        - {x: -47, y: 22}
+        - {x: 31, y: 23}
+        - {x: 27, y: 24}
+        - {x: 17, y: 23}
+        - {x: 15, y: 21}
+        - {x: 4, y: 18}
+        - {x: -3, y: 10}
+        - {x: -4, y: 3}
+        - {x: 6, y: -6}
+        - {x: 11, y: -20}
+        - {x: 22, y: -20}
+        - {x: 29, y: -16}
+        - {x: 28, y: -12}
+        - {x: 27, y: -6}
+        - {x: 26, y: -5}
+        - {x: 27, y: -6}
+        - {x: 39, y: -6}
+        - {x: 44, y: -4}
+        - {x: 47, y: -22}
+        - {x: -47, y: -22}
+    - name: MarioSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 78
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 60
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 41}
+        - {x: -29.5, y: 38}
+        - {x: -29.5, y: -29}
+        - {x: -10.5, y: -41}
+        - {x: 14.5, y: -41}
+        - {x: 29.5, y: -29}
+        - {x: 29.5, y: 12}
+        - {x: 18.5, y: 41}
+    - name: MarioSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 109
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 98
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 33}
+        - {x: -34.5, y: -33}
+        - {x: 20.5, y: -33}
+        - {x: 34.5, y: -25}
+        - {x: 34.5, y: 18}
+        - {x: 15.5, y: 33}
+    - name: MarioSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 61
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 23.5}
+        - {x: -21.5, y: -16.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 21.5, y: -18.5}
+        - {x: 21.5, y: 23.5}
+    - name: MarioSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 17.5}
+        - {x: -4.5, y: 17.5}
+        - {x: -7.5, y: 16.5}
+        - {x: -17.5, y: 5.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 4.5}
+        - {x: 15.5, y: 10.5}
+    - name: MarioSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MarioSpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: 32}
+    - name: MarioSpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 34
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 34}
+        - {x: -17, y: 34}
+        - {x: -21, y: 30}
+        - {x: -21, y: -34}
+        - {x: 21, y: -34}
+        - {x: 21, y: 11}
+        - {x: 19, y: 26}
+    - name: MarioSpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 33.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -33.5}
+        - {x: 28.5, y: -33.5}
+        - {x: 28.5, y: 30.5}
+        - {x: 17.5, y: 33.5}
+    - name: MarioSpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 60
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 20}
+        - {x: -16.5, y: 16}
+        - {x: -17.5, y: 15}
+        - {x: -17.5, y: -13}
+        - {x: -16.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 5}
+        - {x: 8.5, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
